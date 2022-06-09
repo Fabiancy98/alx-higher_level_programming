@@ -4,7 +4,8 @@ Module of **High-level programming** and **Python**, carried out during **Full S
 ## Technologies
 * Shell Scripts are written in Bash 5.1.16(1)
 * Python Scripts are written with Python 3.10.4
-* Tested on Ubuntu 14.04 LTS
+* C files are compiled using `gcc (Debian 11.3.0-1) 11.3.0`
+* Tested on Debian 10 Buster
 
 ## Projects
 All of the following folders are projects done during the studies:
