@@ -1,12 +1,11 @@
 # More Classes and Objects
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about object oriented programming (OOP), Data Abstraction, Data Encapsulation, instances and classes attributes in **Python**.
+Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about object oriented programming (OOP), Data Abstraction, Data Encapsulation, instances and classes attributes in **Python**.
 
 ## Technologies
 * Shell Scripts are written in Bash 5.1.16(1)
 * Python Scripts are written with Python 3.10.4
 * C files are compiled using `gcc (Debian 11.3.0-1) 11.3.0`
 * Tested on Debian 10 Buster
-
 ## Files
 | Filename | Description |
 | -------- | ----------- |
